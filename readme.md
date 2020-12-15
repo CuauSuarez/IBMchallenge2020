@@ -9,8 +9,8 @@ In this repository, I included the my implementations for the 5 challenges devel
 In Summary:
 
 1. **Week 1**
- * Full-adder
- * _Grover's_ algorithm
+  * Full-adder
+  * _Grover's_ algorithm
 2. **Week 2**
  * Light's out puzzle using Grover's algorithm
  * Four light's out using Grover's algorithm and qRAM.
