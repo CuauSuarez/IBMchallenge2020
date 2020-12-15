@@ -8,11 +8,11 @@ In this repository, I included the my implementations for the 5 challenges devel
 
 In Summary:
 
-* **Week 1**
+1. **Week 1**
  * Full-adder
  * _Grover's_ algorithm
-* **Week 2**
+2. **Week 2**
  * Light's out puzzle using Grover's algorithm
  * Four light's out using Grover's algorithm and qRAM.
-* **Week 3**
+3. **Week 3**
  * False asteroids using Grover's algorithm and qRAM.
